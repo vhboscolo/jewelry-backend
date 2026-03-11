@@ -2,6 +2,7 @@
 .gitignore
 .env
 .env.local
+.env.production
 .env.test
 .env.template
 .DS_Store
@@ -17,3 +18,4 @@ medusa-db.sql
 package.json.save
 npm-debug.log
 yarn-error.log
+*.log
